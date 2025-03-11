@@ -1,5 +1,0 @@
-Hello World
-ceci est un                test
-encore un SuperHelloigno                         
-Hello
-World
